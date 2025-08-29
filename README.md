@@ -35,6 +35,9 @@ It was built as part of the **VIT Full Stack Challenge**.
 {
   "data": ["m", "186", "24", "5", "E", "$", "#"]
 }
+```
+## 📥 Example Response
+```json
 {
   "is_success": true,
   "user_id": "mrithulasree_n_07112004",
