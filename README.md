@@ -23,3 +23,28 @@ It was built as part of the **VIT Full Stack Challenge**.
 - Hosted on **Vercel**  
 
 ---
+
+  ## 🌍 Hosted API
+  Base URL:  https://bajaj-finserv-health-full-stack-vit.vercel.app/bfhl
+
+  
+---
+
+## 📥 Example Request
+```json
+{
+  "data": ["m", "186", "24", "5", "E", "$", "#"]
+}
+{
+  "is_success": true,
+  "user_id": "mrithulasree_n_07112004",
+  "email": "mrithulasree.n2022@vitstudent.ac.in",
+  "roll_number": "22BLC1225",
+  "odd_numbers": ["5"],
+  "even_numbers": ["186", "24"],
+  "alphabets": ["M", "E"],
+  "special_characters": ["$", "#"],
+  "sum": "215",
+  "concat_string": "Em"
+}
+```
